@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets/sistematx.png" height="50" >
+    <img src="/profile/assets/sistematx.png" height="50" >
 </p>
 
 ## Projeto: SistematX
@@ -8,7 +8,7 @@ SISTEMAT X Web, sigla de "SISTEMAT eXtended Webservices", é um conjunto de ferr
 - Link: [SistematX](http://sistematx.ufpb.br/)
 
 <p align="center">
-    <img src="assets/molpredictx.png" height="50" >
+    <img src="/profile/assets/molpredictx.png" height="50" >
 </p>
 
 ## Projeto: MolpredictX
